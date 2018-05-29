@@ -1,0 +1,7 @@
+name: deep_init
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.5.*
+  - pandas=0.20.*
